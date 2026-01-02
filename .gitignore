@@ -1,0 +1,43 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Executables
+*.out
+*.app
+
+# Debug files
+*.dSYM/
+*.gch
+*.pch
+
+# IDE/project files
+.vscode/
+.idea/
+*.code-workspace
+
+# CMake files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Backup files
+*~
+*.bak
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.swp
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Generated directories
+bin/
+build/
