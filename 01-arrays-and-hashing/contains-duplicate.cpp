@@ -27,6 +27,4 @@ int main()
     bool result = sol.containsDuplicate(nums);
 
     cout << (result ? "true" : "false") << endl; // Print result
-
-    return 0;
 }
