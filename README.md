@@ -51,6 +51,7 @@ By using this repository, students will be able to:
 
 -   Arrays & Strings
 -   Hash Maps & Sets - https://www.youtube.com/watch?v=shs0KM3wKv8
+-   Zoom recording - https://www.youtube.com/watch?v=crpQ3XCwYDk
 
 #### Day 3 (Jan 6, 2026)
 
