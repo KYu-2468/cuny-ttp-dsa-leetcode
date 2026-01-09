@@ -51,26 +51,30 @@ By using this repository, students will be able to:
 
 -   Arrays & Strings
 -   Hash Maps & Sets - https://www.youtube.com/watch?v=shs0KM3wKv8
--   Zoom recording - https://www.youtube.com/watch?v=crpQ3XCwYDk
+-   📺 Zoom recording - https://www.youtube.com/watch?v=crpQ3XCwYDk
 
 #### Day 3 (Jan 6, 2026)
 
 -   Two Pointers
 -   Binary Search - https://www.youtube.com/watch?v=YzT8zDPihmc
+-   📺 Zoom recording - https://www.youtube.com/watch?v=dfAbenqG9zY&list=PLYGrs8trVXOvpEMeXjLKtLT_M-_oQLcdh&index=4&pp=gAQBiAQBsAgC
 
 #### Day 4 (Jan 7, 2026)
 
 -   Sliding Window
 -   Linked Lists - https://www.youtube.com/watch?v=njTh_OwMljA
+-   📺 Zoom recording - https://www.youtube.com/watch?v=Lm-I0xCeQg0&list=PLYGrs8trVXOvpEMeXjLKtLT_M-_oQLcdh&index=3
 
 #### Day 5 (Jan 8, 2026)
 
 -   Stacks & Queues - https://www.youtube.com/watch?v=wjI1WNcIntg
+-   📺 Zoom recording - https://www.youtube.com/watch?v=E29AMt3YaZI&list=PLYGrs8trVXOvpEMeXjLKtLT_M-_oQLcdh&index=2
 
 #### Day 6 (Jan 9, 2026)
 
 -   Practice day + leetrooms
 -   45 min leetrooms + 45 min solutions
+-   📺 Zoom recording - https://www.youtube.com/watch?v=EqJqPRfGIqc&list=PLYGrs8trVXOvpEMeXjLKtLT_M-_oQLcdh&index=1
 
 #### Day 7 (Jan 12, 2026)
 
