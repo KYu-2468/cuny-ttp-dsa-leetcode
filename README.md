@@ -78,13 +78,16 @@ By using this repository, students will be able to:
 
 #### Day 7 (Jan 12, 2026)
 
--   Recursion & Backtracking
+-   Practice Day
+-   📺 Zoom recording -
 
 #### Day 8 & 9 (Jan 13 & 14, 2026)
 
+-   Recursion - https://www.youtube.com/watch?v=KEEKn7Me-ms
 -   Trees (Binary Trees, BSTs) - https://www.youtube.com/watch?v=oSWTXtMglKE
 -   DFS: Inorder, preorder, postorder
 -   BFS: Level order traversal
+-   📺 Zoom recording - https://www.youtube.com/watch?v=Xm9NyUX2q6w
 
 #### Day 10 (Jan 15, 2026)
 
